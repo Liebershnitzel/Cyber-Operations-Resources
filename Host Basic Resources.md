@@ -115,4 +115,9 @@
 	- Tanium VS SCCM : https://www.wwt.com/article/tanium-vs-microsoft-sccm-the-ferrari-or-the-sedan-or-both
  - NUIX Adaptive Security
 	- Documentation : https://www.nuix.com/sites/default/files/2023-03/PRINT00260123_Fact%20Sheet-Nuix%20Adaptive%20Security_US.pdf
+ - Sysmon
+	- Sysmon Threat guide : https://www.varonis.com/blog/sysmon-threat-detection-guide
+   	- Microsoft Documentation : https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
+   	- Configurations Like A Pro : https://posts.specterops.io/working-with-sysmon-configurations-like-a-pro-through-better-tooling-be7ad7f99a47
+   
 
