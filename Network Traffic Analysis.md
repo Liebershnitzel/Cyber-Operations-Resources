@@ -10,6 +10,7 @@ Wireshark/Tcpdump: https://securityblue.team/courses/network-analysis-training-b
 **Protocol Resources**
 
 - ICMP
+    - ICMP Tunneling and How to Detect it : https://www.extrahop.com/company/blog/2021/detect-and-stop-icmp-tunneling/
 - FTP
 - SSH
 - SMTP
