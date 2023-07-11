@@ -12,6 +12,7 @@ Wireshark/Tcpdump: https://securityblue.team/courses/network-analysis-training-b
 - ICMP
     - Understanding the ICMP Protocol : https://www.howtouselinux.com/post/icmp-protocol-with-examples
     - ICMP Tunneling and How to Detect it : https://www.extrahop.com/company/blog/2021/detect-and-stop-icmp-tunneling/
+    - Smurf Attack : https://www.avg.com/en/signal/smurf-attack
 - FTP
 - SSH
 - SMTP
