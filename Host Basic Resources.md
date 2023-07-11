@@ -102,3 +102,5 @@
 	- Covering Your Tracks / Hiding Evidence : https://www.globalknowledge.com/us-en/resources/resource-library/articles/the-5-phases-of-hacking-covering-your-tracks/
 	- Maintaining Access : https://www.globalknowledge.com/us-en/resources/resource-library/articles/the-5-phases-of-hacking-covering-your-tracks/
 	- Data Mining: https://www.trendmicro.com/vinfo/es/security/news/cyber-attacks/data-breach-101
+- For Memory/Disk Analysis see Memory Analysis and Disk Analysis Section
+
