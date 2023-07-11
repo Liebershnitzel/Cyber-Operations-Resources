@@ -86,7 +86,7 @@
 		- Importance of Sysvol & NETLOGON: http://www.techiebird.com/Sysvol_netlogon_importance_ActiveDirectory.html
 		- Credential Harvesting from Domain Shares:https://www.sentinelone.com/blog/credentials-harvesting-from-domain-shares/
 	- ADMIN$
-	
+		- How Psexec Works: https://www.lifewire.com/psexec-4587631
 
 - **Applocker Bypass**
 	- Bypassing AppLocker: https://juggernaut-sec.com/applocker-bypass/
