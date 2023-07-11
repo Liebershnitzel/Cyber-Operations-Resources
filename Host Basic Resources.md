@@ -104,3 +104,7 @@
 	- Data Mining: https://www.trendmicro.com/vinfo/es/security/news/cyber-attacks/data-breach-101
 - For Memory/Disk Analysis see Memory and Disk Analysis Section
 - For Redline See Memory and Disk Analysis
+- EndGame
+  	- Welcome Endgame : https://www.elastic.co/blog/endgame-joins-forces-with-elastic
+  	- Understanding EPP vs EDR VS XDR : https://resources.infosecinstitute.com/topic/comparing-endpoint-security-epp-vs-edr-vs-xdr/
+
