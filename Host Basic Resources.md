@@ -119,5 +119,9 @@
 	- Sysmon Threat guide : https://www.varonis.com/blog/sysmon-threat-detection-guide
    	- Microsoft Documentation : https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
    	- Configurations Like A Pro : https://posts.specterops.io/working-with-sysmon-configurations-like-a-pro-through-better-tooling-be7ad7f99a47
-   
+- Chrootkit
+  	- https://www.kali.org/tools/chkrootkit/
+- RK Hunter
+	- https://www.kali.org/tools/rkhunter/
+- 
 
