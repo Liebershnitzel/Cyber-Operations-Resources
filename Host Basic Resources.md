@@ -107,4 +107,11 @@
 - EndGame
   	- Welcome Endgame : https://www.elastic.co/blog/endgame-joins-forces-with-elastic
   	- Understanding EPP vs EDR VS XDR : https://resources.infosecinstitute.com/topic/comparing-endpoint-security-epp-vs-edr-vs-xdr/
+- Carbon Black
+	- Carbon Black Technical Overview : https://carbonblack.vmware.com/resource/carbon-black-enterprise-edr-technical-overview#what-is-carbon-black-enterprise-edr
+   	- Carbon Black Review: : https://www.fool.com/the-ascent/small-business/endpoint-security/vmware-carbon-black-review/
+   	- Carbon Black Limitations : https://community.carbonblack.com/t5/Knowledge-Base/EDR-What-Are-the-Live-Query-Limitations/ta-p/103143
+- Tanium
+	- Tanium VS SCCM : https://www.wwt.com/article/tanium-vs-microsoft-sccm-the-ferrari-or-the-sedan-or-both
+ - 
 
