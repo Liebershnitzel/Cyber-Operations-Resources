@@ -1,6 +1,6 @@
 
 
-**Primarily Red Team**
+**Primarily Red Team** 
 John Hammond: https://www.youtube.com/@_JohnHammond
 
 IPPSec: https://www.youtube.com/@ippsec   &&& https://ippsec.rocks
