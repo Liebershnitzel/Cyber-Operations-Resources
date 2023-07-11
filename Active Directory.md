@@ -82,11 +82,11 @@
 		- What is the $IPC Share? : https://smallvoid.com/article/winnt-ipc-share.html
 		- How Chinese Hackers Attack $IPC : https://www.giac.org/paper/gcih/466/ipc-share-exploit-methodology-chinese-attackers/103860
 		- RID Brute : https://wiki.porchetta.industries/smb-protocol/enumeration/enumerate-users-by-bruteforcing-rid
-	- **SYSVOL & NETLOGON**
+	- SYSVOL & NETLOGON
 		- Importance of Sysvol & NETLOGON: http://www.techiebird.com/Sysvol_netlogon_importance_ActiveDirectory.html
 		- Credential Harvesting from Domain Shares:https://www.sentinelone.com/blog/credentials-harvesting-from-domain-shares/
 	- ADMIN$
-		- 
+	
 
 - **Applocker Bypass**
 	- Bypassing AppLocker: https://juggernaut-sec.com/applocker-bypass/
