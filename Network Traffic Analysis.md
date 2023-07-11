@@ -19,7 +19,7 @@ Wireshark/Tcpdump: https://securityblue.team/courses/network-analysis-training-b
     - FTP Analysis : https://resources.infosecinstitute.com/topic/network-traffic-analysis-for-ir-ftp-protocol-with-wireshark
     - FTP Attack Case Study: https://linuxsecurity.com/features/ftp-attack-case-study-part-i-the-analysis
 - SSH
-    - SSH Protocol Breakdown : https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process\
+    - SSH Protocol Breakdown : https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
     - SSH Protocol Analysis In Wireshark: https://resources.infosecinstitute.com/topic/network-traffic-analysis-for-ir-ssh-protocol-with-wireshark/
 - SMTP
 - DNS
