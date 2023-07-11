@@ -9,6 +9,7 @@
 - https://redteamer.tips/
 - https://huskyhacks.dev/blog-feed/
 - https://thedfirreport.com/
+  
 **News**
 - https://thehackernews.com/
 - https://krebsonsecurity.com/
