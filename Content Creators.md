@@ -2,9 +2,13 @@
 
 **Primarily Red Team**
 John Hammond: https://www.youtube.com/@_JohnHammond
+
 IPPSec: https://www.youtube.com/@ippsec   &&& https://ippsec.rocks
+
 Alh4z3rd: https://www.youtube.com/@alh4zr3d3
+
 HackersSploit: https://www.youtube.com/@HackerSploit
+
 Tib3rius: https://www.youtube.com/@Tib3rius
 
 
