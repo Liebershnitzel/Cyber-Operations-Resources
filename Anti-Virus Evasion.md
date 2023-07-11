@@ -24,7 +24,6 @@
 **Performing AV Evasion**
 - AMSI Bypass: https://amsi.fail
 - Threat Check:  https://github.com/rasta-mouse/ThreatCheck
-- EDR Evasion: [EDR Evasion: Stranger things in a payload | SANS Institute](https://www.sans.org/white-papers/edr-evasion-stranger-things-in-a-packet/)
 
 
 
@@ -38,6 +37,7 @@
 - Antivirus Evasion - Part 1 : https://www.varutra.com/antivirus-evasion-part-1/
 - JA3 Evasion: https://www.vectra.ai/blogpost/c2-evasion-techniques
 - Working to Bypass CrowdStrike Falcon w/ Scarecrow : https://attackersmindset.com/2022/05/05/working-to-bypass-crowdstrike-prevention-of-initial-foothold/
+- EDR Evasion: [EDR Evasion: Stranger things in a payload | SANS Institute](https://www.sans.org/white-papers/edr-evasion-stranger-things-in-a-packet/)
 **VIDEOS**
 
 - Antivirus Evasion, Obfuscating Mimi Katz : https://www.youtube.com/watch?v=9pwMCHlNma4
