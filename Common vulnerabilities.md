@@ -1,7 +1,8 @@
 
 
 **General**
- OWASP Top Ten : https://owasp.org/www-project-top-ten/
+ - OWASP Top Ten : https://owasp.org/www-project-top-ten/
+ - NIST NVD : https://nvd.nist.gov/vuln
 **Web**
 - Injection Vulnerabilities
 - XSS
