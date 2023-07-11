@@ -3,7 +3,7 @@
 
 **Host Fundamentals**
 - Volatile Memory Resources
-	- Order of Volatility [Order of Volatility (briancarr.org)](https://www.briancarr.org/post/order-of-volatility)\
+	- Order of Volatility [Order of Volatility (briancarr.org)](https://www.briancarr.org/post/order-of-volatility)
 	- Memory Acquisition on Windows/Linux : https://alexandreborgesbrazil.files.wordpress.com/2014/06/memory-acquisition_win_linux1.pdf 
 	- Page Tables, VAD and PEB: [Page tables, VAD and PEB | Infosec Resources (infosecinstitute.com)](https://resources.infosecinstitute.com/topic/finding-enumerating-processes-within-memory-part-2/)
 
