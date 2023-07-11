@@ -34,9 +34,7 @@
 - Process Handles
 	- What is a windows handle? : [What is a Windows Handle? - Stack Overflow](https://stackoverflow.com/questions/902967/what-is-a-windows-handle)
 	- Uncommon Handle Analysis in Incident Response and Forensics: [Uncommon Handle Analysis in Incident Response and Forensics (blackberry.com)](https://blogs.blackberry.com/en/2013/05/Uncommon-Handle-Analysis-in-Incident-Response-and-Forensics)
-
-
-- Mutex Objects: [SANS Digital Forensics and Incident Response Blog | Looking at Mutex Objects for Malware Discovery and Indicators of Compromise | SANS Institute](https://www.sans.org/blog/looking-at-mutex-objects-for-malware-discovery-indicators-of-compromise/)
+	- Mutex Objects: [SANS Digital Forensics and Incident Response Blog | Looking at Mutex Objects for Malware Discovery and Indicators of Compromise | SANS Institute](https://www.sans.org/blog/looking-at-mutex-objects-for-malware-discovery-indicators-of-compromise/)
 - 
 
 **Service Analysis**
