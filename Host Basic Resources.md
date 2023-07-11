@@ -113,5 +113,6 @@
    	- Carbon Black Limitations : https://community.carbonblack.com/t5/Knowledge-Base/EDR-What-Are-the-Live-Query-Limitations/ta-p/103143
 - Tanium
 	- Tanium VS SCCM : https://www.wwt.com/article/tanium-vs-microsoft-sccm-the-ferrari-or-the-sedan-or-both
- - 
+ - NUIX Adaptive Security
+	- Documentation : https://www.nuix.com/sites/default/files/2023-03/PRINT00260123_Fact%20Sheet-Nuix%20Adaptive%20Security_US.pdf
 
