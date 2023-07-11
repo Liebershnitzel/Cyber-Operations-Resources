@@ -121,6 +121,7 @@
    	- Configurations Like A Pro : https://posts.specterops.io/working-with-sysmon-configurations-like-a-pro-through-better-tooling-be7ad7f99a47
 - Chrootkit
   	- https://www.kali.org/tools/chkrootkit/
+  	- https://www.chkrootkit.org/
 - RK Hunter
 	- https://www.kali.org/tools/rkhunter/
 - 
