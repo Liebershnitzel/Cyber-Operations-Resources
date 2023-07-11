@@ -1,8 +1,8 @@
 
 
+**General**
+ OWASP Top Ten : https://owasp.org/www-project-top-ten/
 **Web**
-- OWASP Top Ten : https://owasp.org/www-project-top-ten/
-
 - Injection Vulnerabilities
 - XSS
 - CSRF
