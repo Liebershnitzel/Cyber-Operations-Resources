@@ -10,3 +10,4 @@
 - Sift Workstation: https://www.sans.org/tools/sift-workstation/
 - Flare VM: https://github.com/mandiant/flare-vm
 - Remnux: https://remnux.org/
+- Security Onion: https://securityonionsolutions.com/
