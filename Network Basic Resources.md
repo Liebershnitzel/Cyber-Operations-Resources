@@ -12,6 +12,5 @@
 
 - Router's and Layer 3 Switches as secondary Network Defense Systems
     - Routers
-          - Poop
-          - Poop
+    -     - das
     - Layer 3 Switches
