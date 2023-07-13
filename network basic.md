@@ -6,4 +6,4 @@
 
 - Encapsulation
     - What is Encapsulation?: https://www.techtarget.com/searchnetworking/tip/Intro-to-encapsulation-and-decapsulation-in-networking
-    - 
+    - Some Tips on Ecapsulation: https://edadocs.software.keysight.com/kkbopen/some-tips-on-encapsulation-mismatches-645667968.html
