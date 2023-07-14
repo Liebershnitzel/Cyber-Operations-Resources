@@ -5,3 +5,6 @@
 - About Detection Engineering : https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0
 
 
+**Suricata**
+
+- Writing Effective Suritcata Rules: https://coralogix.com/blog/writing-effective-suricata-rules-for-the-sta/
