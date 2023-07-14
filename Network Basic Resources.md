@@ -88,3 +88,8 @@
        	- Detecting Initial Access: https://socprime.com/blog/what-is-initial-access-mitre-attck-initial-access-tactic-ta0001/#How_to_Detect_Initial_Access
        	- Detecting Execution: https://socprime.com/blog/execution-tactic-ta0002/#:~:text=When%20it%20comes%20to%20MITRE,and%20implementations%20once%20they%20arise.
        	- Understanding C2: https://www.fortinet.com/resources/cyberglossary/command-and-control-attacks#:~:text=A%20Command%20and%20Control%20attack,the%20compromised%20network%20or%20machine.
+   
+- Port Scanners: https://securitytrails.com/blog/best-port-scanners
+- Network Traffic Obfuscation
+  	- How Enterprises use Network Obfuscation: https://www.telos.com/offerings/network-obfuscation/#:~:text=Network%20obfuscation%20hides%20the%20presence,elimination%20of%20source%20IP%20addresses.
+  	- How Red Teams Use Network Obfuscation: https://www.securityweek.com/how-improve-red-team-effectiveness-using-obfuscation/#:~:text=For%20red%20teams%2C%20using%20an%20obfuscated%20network%20for,and%20test%20attacks%20in%20a%20more%20realistic%20manner.
