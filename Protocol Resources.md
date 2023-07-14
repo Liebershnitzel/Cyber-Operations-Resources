@@ -28,7 +28,7 @@ Protocol Registry: https://www.iana.org/assignments/service-names-port-numbers/s
     - SSH Protocol Breakdown : https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
     - SSH Protocol Analysis In Wireshark: https://resources.infosecinstitute.com/topic/network-traffic-analysis-for-ir-ssh-protocol-with-wireshark/
 - SMTP
-    - Understnaind the SMTP Protocol : https://www.cloudflare.com/learning/email-security/what-is-smtp/
+    - Understand the SMTP Protocol : https://www.cloudflare.com/learning/email-security/what-is-smtp/
 - DNS
 - DHCP
 - TFTP
