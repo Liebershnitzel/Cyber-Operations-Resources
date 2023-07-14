@@ -4,7 +4,7 @@
 - Cobalt Strike
 - Powershell-Empire
 - Covenant
-- Metasploiit
+- Metasploit
 - 
 
 
