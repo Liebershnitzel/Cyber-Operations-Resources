@@ -86,4 +86,5 @@
  	- Understanding the MITRE ATT&CK Framework: https://securitytrails.com/blog/mitre-attack-framework
     	- Detecting Reconassiance with Zeek and Splunk: https://underdefense.com/guides/detecting-reconnaissance-activity-in-your-network/
        	- Detecting Initial Access: https://socprime.com/blog/what-is-initial-access-mitre-attck-initial-access-tactic-ta0001/#How_to_Detect_Initial_Access
+       	- Detecting Execution: https://socprime.com/blog/execution-tactic-ta0002/#:~:text=When%20it%20comes%20to%20MITRE,and%20implementations%20once%20they%20arise.
        	- 
