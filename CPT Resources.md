@@ -4,6 +4,7 @@
 
 - JQR Intelink [JTL (intelink.gov)](https://intelshare.intelink.gov/sites/uscybercom/Training/SitePages/JTL.aspx)
 - DoD Cyber Exchange : https://public.cyber.mil/
+- Books, Games and More: https://www.humblebundle.com/
 
 
 **Publications**
