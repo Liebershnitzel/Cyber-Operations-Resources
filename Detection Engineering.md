@@ -8,3 +8,4 @@
 **Suricata**
 
 - Writing Effective Suritcata Rules: https://coralogix.com/blog/writing-effective-suricata-rules-for-the-sta/
+- Suricata Alert Breakdown: https://www.digitalocean.com/community/tutorials/understanding-suricata-signatures
