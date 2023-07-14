@@ -73,5 +73,5 @@
 - What happens when a SYN Flag Arrives on a closed port
 	- How does syn scanning work?: https://www.techtarget.com/searchnetworking/definition/SYN-scanning
 
-- For IP Datagram see IPv4 Protocol resources
+- For IP Datagram see Protocol Resourecs - ICMP
    
