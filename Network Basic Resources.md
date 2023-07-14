@@ -69,3 +69,7 @@
 - For PCAP see Network Traffic Analysis
 - For BPF see Network Traffic analysis
 - For Header Information see Protocol Resources
+
+- What happens when a SYN Flag Arrives on a closed port
+	- How does syn scanning work?: https://www.techtarget.com/searchnetworking/definition/SYN-scanning
+   
