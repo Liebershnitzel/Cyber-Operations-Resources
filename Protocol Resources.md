@@ -12,6 +12,7 @@ Protocol Registry: https://www.iana.org/assignments/service-names-port-numbers/s
 **Layer 4 Protocols**
 - TCP
     - TCP Overview: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/transmission-control-protocol--tcp
+    - How Syn Scanning Works: https://www.techtarget.com/searchnetworking/definition/SYN-scanning
 - UDP
     - UDP Overview: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/user-datagram-protocol-udp
 - ICMP
