@@ -74,3 +74,4 @@
 - For IP Datagram see Protocol Resourecs - ICMP
 - For UDP Arrives on a listening port see Protocol Resources - UDP
 - For HTTP Header see Protocol Resources - HTTP
+- For Identifying Anomalous Activity and creation of a signature see Detection Engineering - Suricata
