@@ -17,7 +17,11 @@ Wireshark/Tcpdump: https://securityblue.team/courses/network-analysis-training-b
 - PCAP
 	- What is a PCAP File?: https://www.solarwinds.com/resources/it-glossary/pcap
 
-
+**ZEEK**
+- Zeek Metadata
+	- What is Network MetaData?: https://dynamite.ai/what-is-network-metadata/#:~:text=Generally%20speaking%2C%20metadata%20is%20descriptive,artifacts%20associated%20with%20these%20connections.
+	- What is Zeek: https://resources.infosecinstitute.com/topic/using-zeek-for-network-analysis-and-detections/
+- IDS Alerts
 
 
 
