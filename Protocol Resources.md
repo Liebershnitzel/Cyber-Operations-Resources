@@ -16,10 +16,6 @@ Protocol Registry: https://www.iana.org/assignments/service-names-port-numbers/s
   - Smurf Attack : https://www.avg.com/en/signal/smurf-attack
 - 
 **Layer 7 Protocols**
-  - ICMP
-    - Understanding the ICMP Protocol : https://www.howtouselinux.com/post/icmp-protocol-with-examples
-    - ICMP Tunneling and How to Detect it : https://www.extrahop.com/company/blog/2021/detect-and-stop-icmp-tunneling/
-    - Smurf Attack : https://www.avg.com/en/signal/smurf-attack
 - FTP
     - FTP Protocol Breakdown: https://www.techtarget.com/searchnetworking/definition/File-Transfer-Protocol-FTP
     - FTP Analysis : https://resources.infosecinstitute.com/topic/network-traffic-analysis-for-ir-ftp-protocol-with-wireshark
