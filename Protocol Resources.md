@@ -36,6 +36,7 @@ Protocol Registry: https://www.iana.org/assignments/service-names-port-numbers/s
 - DHCP
 - TFTP
 - HTTP
+    - HTTP Header Breakdown: https://www.geeksforgeeks.org/http-headers/
 - Keberos
 - NTP
 - RPC
