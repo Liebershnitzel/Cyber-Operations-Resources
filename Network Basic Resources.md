@@ -93,3 +93,8 @@
 - Network Traffic Obfuscation
   	- How Enterprises use Network Obfuscation: https://www.telos.com/offerings/network-obfuscation/#:~:text=Network%20obfuscation%20hides%20the%20presence,elimination%20of%20source%20IP%20addresses.
   	- How Red Teams Use Network Obfuscation: https://www.securityweek.com/how-improve-red-team-effectiveness-using-obfuscation/#:~:text=For%20red%20teams%2C%20using%20an%20obfuscated%20network%20for,and%20test%20attacks%20in%20a%20more%20realistic%20manner.
+- Banner Grabing
+	- What is banner grabing: https://securitytrails.com/blog/banner-grabbing
+- Man In the Middle
+	- What is Mitm: https://www.rapid7.com/fundamentals/man-in-the-middle-attacks/
+   	- ARP Spoofing Explained: https://www.crowdstrike.com/cybersecurity-101/spoofing-attacks/arp-spoofing/
