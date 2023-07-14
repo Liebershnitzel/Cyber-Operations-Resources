@@ -15,6 +15,7 @@ Protocol Registry: https://www.iana.org/assignments/service-names-port-numbers/s
     - How Syn Scanning Works: https://www.techtarget.com/searchnetworking/definition/SYN-scanning
 - UDP
     - UDP Overview: https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/user-datagram-protocol-udp
+    - How does UDP Work?: https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp/
 - ICMP
   - Understanding the ICMP Protocol : https://www.howtouselinux.com/post/icmp-protocol-with-examples
   - ICMP Type 3 Destination Unreachable: https://www.iana.org/assignments/icmp-parameters/icmp-parameters.xhtml#icmp-parameters-codes-3
