@@ -87,4 +87,4 @@
     	- Detecting Reconassiance with Zeek and Splunk: https://underdefense.com/guides/detecting-reconnaissance-activity-in-your-network/
        	- Detecting Initial Access: https://socprime.com/blog/what-is-initial-access-mitre-attck-initial-access-tactic-ta0001/#How_to_Detect_Initial_Access
        	- Detecting Execution: https://socprime.com/blog/execution-tactic-ta0002/#:~:text=When%20it%20comes%20to%20MITRE,and%20implementations%20once%20they%20arise.
-       	- 
+       	- Understanding C2: https://www.fortinet.com/resources/cyberglossary/command-and-control-attacks#:~:text=A%20Command%20and%20Control%20attack,the%20compromised%20network%20or%20machine.
