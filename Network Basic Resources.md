@@ -75,3 +75,15 @@
 - For UDP Arrives on a listening port see Protocol Resources - UDP
 - For HTTP Header see Protocol Resources - HTTP
 - For Identifying Anomalous Activity and creation of a signature see Detection Engineering - Suricata
+- Different Types of NIDS:
+	- NIDS: https://netacea.com/glossary/network-intrusion-detection-system-nids/
+
+
+ **Hacking Methodology**
+
+- MITRE Attack Framework
+	- What is the MITRE ATT&CK Framework: https://www.sentinelone.com/cybersecurity-101/mitre-attack-framework/
+ 	- Understanding the MITRE ATT&CK Framework: https://securitytrails.com/blog/mitre-attack-framework
+    	- Detecting Reconassiance with Zeek and Splunk: https://underdefense.com/guides/detecting-reconnaissance-activity-in-your-network/
+       	- Detecting Initial Access: https://socprime.com/blog/what-is-initial-access-mitre-attck-initial-access-tactic-ta0001/#How_to_Detect_Initial_Access
+       	- 
