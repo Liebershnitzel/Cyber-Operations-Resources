@@ -98,3 +98,14 @@
 - Man In the Middle
 	- What is Mitm: https://www.rapid7.com/fundamentals/man-in-the-middle-attacks/
    	- ARP Spoofing Explained: https://www.crowdstrike.com/cybersecurity-101/spoofing-attacks/arp-spoofing/
+ 
+- Data Exfiltration:
+	- Understanding Hackers' Data Exfiltration Techniques: https://cyware.com/news/understanding-hackers-data-exfiltration-techniques-cea8397d
+	- Chinese Hackers are Stealing US Defense Secrets: https://www.cfr.org/blog/chinese-hackers-are-stealing-us-defense-secrets-here-how-stop-them
+ - Zone transfer
+	- DNS Zones Explained: http://www.steves-internet-guide.com/dns-zones-explained/
+	- The zone file: https://resources.infosecinstitute.com/topic/dns-hacking/
+ - Remote Access Methods
+	- Remote Access Methods: https://www.kaseya.com/blog/remote-access/
+ - For Initial Acess see Detecting Initial Access Above
+ - 
