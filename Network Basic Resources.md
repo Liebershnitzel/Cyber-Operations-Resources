@@ -55,7 +55,7 @@
 	- Port Redirection and tunneling: https://cyberw1ng.medium.com/port-redirection-and-tunneling-a-comprehensive-guide-karthikeyan-nagaraj-f52f437b5e7b
 
 - UDP Traceroute
-	- TCP,UDP and ICMP Traceroute: https://www.pingplotter.com/wisdom/article/packet-type-differences/
+	- UDP and ICMP Traceroute:[ https://www.pingplotter.com/wisdom/article/packet-type-differences/](http://wpage.unina.it/rcanonic/didattica/rc/docs/UDP-ICMP-Traceroutes.pdf)
 
 - Standalone vs domain joined
 	- Domain vs Workgroup: https://pediaa.com/what-is-the-difference-between-domain-and-workgroup/
