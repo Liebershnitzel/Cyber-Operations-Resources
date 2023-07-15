@@ -62,7 +62,8 @@
 	- Domain Joined and Non-Domain Joined: https://securityboulevard.com/2019/11/domain-joined-vs-non-domain-joined-best-management-tool/
 
 - Routable vs Non-Routable
-	- Differences: https://www.geeksforgeeks.org/difference-between-routable-and-non-routable-protocols/
+	- Differences Terrible English: https://www.geeksforgeeks.org/difference-between-routable-and-non-routable-protocols/
+   	- Routable and Non-Routable: https://www.omnisecu.com/cisco-certified-network-associate-ccna/difference-between-routable-protocol-and-nonroutable-protocol.php
 
 **Traffic Analysis**
 
