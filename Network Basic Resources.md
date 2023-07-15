@@ -12,7 +12,7 @@
 **Basic Network Analyst Knowledge**
 
 - Router's and Layer 3 Switches as secondary Network Defense Systems
-	 - What are ACL's: https://www.techtarget.com/searchnetworking/definition/access-control-list-ACL
+	 - What are ACL's: [https://www.techtarget.com/searchnetworking/definition/access-control-list-ACL](https://www.geeksforgeeks.org/access-lists-acl/)
 	 - Understanding Network Segmentation: https://www.cisco.com/c/en/us/products/security/what-is-network-segmentation.html
 	 - Cisco Switch Security Features Cheetsheet: https://rayanfam.com/topics/cisco-switch-sec-cheatsheet/
 - VLAN, Port-Mirrors, Trunks and Spanning Tree Protocol Security Concerns
