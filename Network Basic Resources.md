@@ -109,4 +109,7 @@
  - Remote Access Methods
 	- Remote Access Methods: https://www.kaseya.com/blog/remote-access/
  - For Initial Acess see Detecting Initial Access Above
- - 
+ - Describe the uses for PCAP, IDS Alerts and Network Metadata
+   	- PCAP: https://corelight.com/resources/glossary/packet-capture-pcap
+   	- IDS: https://www.knowledgehut.com/blog/security/intrusion-detection-system
+   	- Metadata: https://thehackernews.com/2022/11/deep-packet-inspection-vs-metadata.html
