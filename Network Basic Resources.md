@@ -115,3 +115,6 @@
    	- Metadata: https://thehackernews.com/2022/11/deep-packet-inspection-vs-metadata.html
  - Link and Timeline Analysis
    	- Link Analysis and Timeline Analysis: https://www.acquireforensics.com/blog/link-analysis-timeline-analysis.html
+ - Data Stacking and Pivot Tables
+   	- What is data stacking: https://www.displayr.com/what-is-data-stacking/
+   	- What is a pivot table: https://www.polymersearch.com/blog/pivot-tables
