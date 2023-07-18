@@ -113,3 +113,5 @@
    	- PCAP: https://corelight.com/resources/glossary/packet-capture-pcap
    	- IDS: https://www.knowledgehut.com/blog/security/intrusion-detection-system
    	- Metadata: https://thehackernews.com/2022/11/deep-packet-inspection-vs-metadata.html
+ - Link and Timeline Analysis
+   	- Link Analysis and Timeline Analysis: https://www.acquireforensics.com/blog/link-analysis-timeline-analysis.html
