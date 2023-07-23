@@ -63,6 +63,7 @@
 - **Active Directory Certificate Services**
 	- Attacks, Misconfigurations and Detections: https://posts.specterops.io/certified-pre-owned-d95910965cd2
 	- Using Bloodhound and Certipy: https://medium.com/@shaunwhorton/certifried-bloodhound-active-directory-certificate-services-abuse-f28850ffefc9
+  	- Abusing Vulnerable/Misconfigured Certificates: https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/from-misconfigured-certificate-template-to-domain-admin
 
 - **Kerberoast & Service Principal Name**
 	- What is a keberoasting attack? : https://www.crowdstrike.com/cybersecurity-101/kerberoasting/
@@ -103,7 +104,3 @@
 - Dumping SAM
 	- [Credential Dumping: SAM - Hacking Articles](https://www.hackingarticles.in/credential-dumping-sam/)
 
-
-
-**ACDS**
-- Abusing Misconfigured Templates: https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/from-misconfigured-certificate-template-to-domain-admin
