@@ -102,3 +102,8 @@
 
 - Dumping SAM
 	- [Credential Dumping: SAM - Hacking Articles](https://www.hackingarticles.in/credential-dumping-sam/)
+
+
+
+**ACDS**
+- Abusing Misconfigured Templates: https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/from-misconfigured-certificate-template-to-domain-admin
