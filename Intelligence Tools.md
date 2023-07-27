@@ -10,3 +10,5 @@
 - MITRE Attack Framework: https://attack.mitre.org/
 - Virus Total: https://virustotal.com
 
+**Intelligence Sharing Platforms**
+- https://circl.lu/services/misp-malware-information-sharing-platform/
