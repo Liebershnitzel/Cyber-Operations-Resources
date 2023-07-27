@@ -11,4 +11,5 @@
 - Virus Total: https://virustotal.com
 
 **Intelligence Sharing Platforms**
-- https://circl.lu/services/misp-malware-information-sharing-platform/
+- MISP Information Platform: https://circl.lu/services/misp-malware-information-sharing-platform/
+- Open Threat Exchange: https://otx.alienvault.com/
