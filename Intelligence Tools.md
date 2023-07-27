@@ -10,6 +10,10 @@
 - MITRE Attack Framework: https://attack.mitre.org/
 - Virus Total: https://virustotal.com
 
+**OSINT TOOLS**
+- Ultimate Repository: https://start.me/p/rxRbpo/cti
+
+
 **Intelligence Sharing Platforms**
 - MISP Information Platform: https://circl.lu/services/misp-malware-information-sharing-platform/
 - Passive DNS: https://circl.lu/services/passive-dns/#passive-dns
