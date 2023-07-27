@@ -13,3 +13,4 @@
 **Intelligence Sharing Platforms**
 - MISP Information Platform: https://circl.lu/services/misp-malware-information-sharing-platform/
 - Open Threat Exchange: https://otx.alienvault.com/
+- Threat Crowd: http://ci-www.threatcrowd.org/
