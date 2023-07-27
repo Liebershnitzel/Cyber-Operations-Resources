@@ -12,7 +12,7 @@
 
 **Tools**
   - RTIR: https://bestpractical.com/rtir
-  - 
+  - Fast Incident Response: https://github.com/certsocietegenerale/FIR
 **Linux**
 
 - Basic Linux Malware Process Forensics for Incident Response : https://sandflysecurity.com/blog/basic-linux-malware-process-forensics-for-incident-responders/
