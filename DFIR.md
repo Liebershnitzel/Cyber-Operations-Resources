@@ -10,7 +10,7 @@
 - Conducting a Table Top Exercise: https://www.blackhillsinfosec.com/dungeons-dragons-meet-cubicles-compromises/
 
 
-**Tools**
+**Information Collaboration Platforms**
   - RTIR: https://bestpractical.com/rtir
   - Fast Incident Response: https://github.com/certsocietegenerale/FIR
 **Linux**
