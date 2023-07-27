@@ -12,5 +12,6 @@
 
 **Intelligence Sharing Platforms**
 - MISP Information Platform: https://circl.lu/services/misp-malware-information-sharing-platform/
+- Passive DNS: https://circl.lu/services/passive-dns/#passive-dns
 - Open Threat Exchange: https://otx.alienvault.com/
 - Threat Crowd: http://ci-www.threatcrowd.org/
