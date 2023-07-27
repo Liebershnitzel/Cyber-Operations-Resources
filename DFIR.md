@@ -15,8 +15,8 @@
   - Fast Incident Response: https://github.com/certsocietegenerale/FIR
 
 **HoneyPots**
-
-
+- Artillery Honey Pot: https://github.com/BinaryDefense/artillery
+- Honey Hashes: https://isc.sans.edu/diary/Detecting+Mimikatz+Use+On+Your+Network/19311
 
 **Linux**
 
