@@ -13,6 +13,7 @@
 **Information Collaboration Platforms**
   - RTIR: https://bestpractical.com/rtir
   - Fast Incident Response: https://github.com/certsocietegenerale/FIR
+  - The Hive: https://thehive-project.org/
 
 **HoneyPots**
 - Artillery Honey Pot: https://github.com/BinaryDefense/artillery
