@@ -9,11 +9,10 @@
 	- https://github.com/tevora-threat/SharpView
 	- https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Active%20Directory%20Attack.md
 	- https://github.com/ollypwn/Certipy
-	- Customize Bloodhound: https://github.com/porterhau5/BloodHound-Owned
+	- https://github.com/porterhau5/BloodHound-Owned
 	- https://rohnspowershellblog.wordpress.com/2013/03/19/viewing-service-acls/
-	- https://github.com/dirkjanm/adidnsdump - DNS enumeration
-	- [ForgeCert](https://github.com/GhostPack/ForgeCert) - Forge certificates with compromised CA certificate and private key
-	- https://github.com/Alamot/code-snippets.git - Authenticating ADCS w Winrm
+	- https://github.com/dirkjanm/adidnsdump 
+	- [ForgeCert](https://github.com/GhostPack/ForgeCert)
 - Cobalt Strike
 	- https://github.com/josephkingstone/cobalt_strike_extension_kit
 	- https://github.com/ajpc500/BOFs
