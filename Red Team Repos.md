@@ -25,12 +25,12 @@
 	- https://github.com/Cracked5pider/KaynStrike - UDRL
 	- https://github.com/mgeeky/ElusiveMice - UDRL
 	- https://github.com/netero1010/RDPHijack-BOF
-	- [Nanodump](https://github.com/helpsystems/nanodump) - Sneaky memory dump BOF
+	- [Nanodump](https://github.com/helpsystems/nanodump) 
 - Social Engineering/Phishing
 	- https://github.com/lockedbyte/CVE-2021-40444
-	- Clone a website with 2FA - https://github.com/fireeye/ReelPhish
-	- https://github.com/kgretzky/evilginx2 - Bypass MFA by MITMing login to actual website
-	- https://github.com/fin3ss3g0d/evilgophish - Combine EvilNginx2 with GoPhish
+	- https://github.com/fireeye/ReelPhish
+	- https://github.com/kgretzky/evilginx2
+	- https://github.com/fin3ss3g0d/evilgophish 
 - LDAP
 	- - https://github.com/tomcarver16/ADSearch
 - Post-exploitation
